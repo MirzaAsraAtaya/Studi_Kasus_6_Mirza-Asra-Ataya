@@ -47,7 +47,7 @@ Bagian ini berfungsi menyimpan kembali seluruh data ke file JSON setelah data ba
 
 break berfungsi untuk menghentikan perulangan dan mengakhiri program ketika pengguna memilih menu 3. Bagian else digunakan untuk memberikan pesan jika pengguna memasukkan pilihan menu yang tidak tersedia.
 
-#Output Program
+# Output Program
 
 <img width="322" height="257" alt="Screenshot 2026-10-06 221634" src="https://github.com/user-attachments/assets/5a33a10d-3333-49e7-a7b8-fc4436412d8d" />
 
