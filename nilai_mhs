@@ -1,0 +1,17 @@
+[
+    {
+        "nama": "mirza",
+        "mata_kuliah": "dasar pemrograman",
+        "nilai": 100
+    },
+    {
+        "nama": "asra",
+        "mata_kuliah": "pengantar teknologi informasi",
+        "nilai": 95
+    },
+    {
+        "nama": "ayam",
+        "mata_kuliah": "ddp",
+        "nilai": "95"
+    }
+]
