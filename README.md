@@ -67,7 +67,7 @@ Output ketika pengguna keluar dari sistem
 
 <img width="313" height="542" alt="Screenshot 2026-10-06 222005" src="https://github.com/user-attachments/assets/173cbf07-084e-4008-b3b3-e8af27a303f1" />
 
-Output yang nunjukin kalau data baru tetap tersimpan walaupun pengguna sudah keluar dari sistem dan masuk kembali
+Output yang nunjukin kalau data histori nilai baru tetap tersimpan walaupun pengguna sudah keluar dari sistem dan masuk kembali
 
 
 
